@@ -23,11 +23,11 @@ The following endpoints should return a JSON response:
 * `/api/pizzas` (list of pizzas; see './backend/example-pizzas.json')
 
 ### Screenshots of my implementation
-![Implementation](/pizzeria/images/ordersList.png?raw=true)
+![Implementation](/Pizzeria/images/ordersList.png?raw=true)
 -------------------
-![Implementation](/pizzeria/images/orderDetails.png?raw=true)
+![Implementation](/Pizzeria/images/orderDetails.png?raw=true)
 -------------------
-![Implementation](/pizzeria/images/pizzasList.png?raw=true)
+![Implementation](/Pizzeria/images/pizzasList.png?raw=true)
 
 -------------------
 [Challenge repository](https://github.com/AmbulnzLLC/fullstack-challenge/blob/master/backend/README.md)
